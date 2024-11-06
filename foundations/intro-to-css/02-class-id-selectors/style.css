@@ -1,0 +1,21 @@
+.number-1 {
+    background-color: pink;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.number-3 {
+    font-size: 24px;
+}
+
+#number2 {
+    color: blue;
+    font-family: serif;
+    font-size: 32px;
+}
+
+#number4 {
+    background-color: greenyellow;
+    font-family: serif;
+    font-weight: 900;
+}
